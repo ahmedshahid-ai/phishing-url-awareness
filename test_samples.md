@@ -3,7 +3,7 @@
 Python version used: 3.10 | Operating system: Windows
 Date: 27 October 2026
 
-Name Ahmed Shahid
+Name: Ahmed Shahid
 
 |#|Input|Expected result|Actual result|Pass/Fail|
 |-|-|-|-|-|
